@@ -1,0 +1,16 @@
+.mybox{
+  float: right;
+  position: relative;
+  align-items: center;
+  bottom: 34px;
+  right: 30px;
+}
+.myinput{
+  width: 90% !important;
+}
+#chld{
+  position: absolute;
+  right: 220px;
+  top: 576px;
+  width: 30% !important;
+}
